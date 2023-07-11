@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- see https://fontawesome.com/v5/cheatsheet -->
+    <string name="wifi">&#xf1eb;</string>
+    <string name="signal">&#xf012;</string>
+    <string name="globe">&#xf0ac;</string>
+</resources>
